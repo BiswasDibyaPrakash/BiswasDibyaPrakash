@@ -1,7 +1,7 @@
 <div style="position: relative; width: 100%; text-align: center;">
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" alt="MasterHead" width="100%"/>
-  <h1 style="position: absolute; top: 10px; left: 50%; transform: translateX(-50%); color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); font-size: 3em;">
-    Biswas
+  <h1 style="position: absolute; top: 15px; left: 50%; transform: translateX(-50%); color: #111111; text-shadow: 0px 0px 8px rgba(255, 255, 255, 0.9); font-size: 2.2em; font-family: sans-serif; font-weight: bold;">
+    biswas
   </h1>
 </div>
 
@@ -16,14 +16,14 @@
 
 - 📫 How to reach me **biswasdibya17@gmail.com**
 
-- ⚡ Fun fact **I don't got to adopt the project originallion**
+- ⚡ Fun fact **It's not a bug, it's an undocumented surprise feature.**
 
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.topcoder.com/members/751003" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/biswas-dibya-prakash-92b239343" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" />
   </a>
 </p>
 
